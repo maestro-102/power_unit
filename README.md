@@ -32,6 +32,10 @@
     <img src="https://github.com/maestro-102/power_unit/blob/master/images/3.jpg?raw=true" width=30% alt="preview">
 </a>
 
+<a href="https://github.com/maestro-102/power_unit/blob/master/images/4.jpg" target="_blank">
+    <img src="https://github.com/maestro-102/power_unit/blob/master/images/4.jpg?raw=true" width=30% alt="preview">
+</a>
+
 Характеристики
 -----------------
 
