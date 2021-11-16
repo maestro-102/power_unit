@@ -4,10 +4,24 @@
 Настольный блок питания для проверки работоспособности собираемых и проверяемых электронных устройств. \
 *Собирался из того, что было под рукой.*
 
+Описание
+-----------------
+
 Структурно блок состоит из модуля преобразователя напряжения и тока с стабилизаторами питания дисплея и регуляторами оборотов вентиляторами, модуля самого блока питания м модуля индикации на OLED. Линия фиксированных 5В организована применением отдельного понижающего модуля на `LM2576`.
 
+Фотографии
+-----------------
+
 <a href="https://github.com/maestro-102/power_unit/blob/master/images/1.jpg" target="_blank">
-    <img src="https://github.com/maestro-102/power_unit/blob/master/images/1.jpg?raw=true" alt="preview">
+    <img src="https://github.com/maestro-102/power_unit/blob/master/images/1.jpg?raw=true" width=30% alt="preview">
+</a>
+
+<a href="https://github.com/maestro-102/power_unit/blob/master/images/2.jpg" target="_blank">
+    <img src="https://github.com/maestro-102/power_unit/blob/master/images/2.jpg?raw=true" width=30% alt="preview">
+</a>
+
+<a href="https://github.com/maestro-102/power_unit/blob/master/images/3.jpg" target="_blank">
+    <img src="https://github.com/maestro-102/power_unit/blob/master/images/3.jpg?raw=true" width=30% alt="preview">
 </a>
 
 Характеристики
